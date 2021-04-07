@@ -9,12 +9,12 @@ Note that this license applies to the EPS, not to Vensim.  Vensim is commercial 
 
 ## Image Credits
 
-Fall Color at Dallas Divide near Ridgway, Colorado
+Abiquiu, New Mexico
 
-Thomas Morse
+Joonyeop Baek
 
-[https://unsplash.com/photos/cuKKa0vWZSY](https://unsplash.com/photos/cuKKa0vWZSY)
+[https://unsplash.com/photos/4x6dxnVMRWE](https://unsplash.com/photos/4x6dxnVMRWE)
 
-License: Unsplash
+License: Unsplash License
 
 Changes: Image has been cropped and a fade has been applied to the left side.

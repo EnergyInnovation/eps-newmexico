@@ -13,7 +13,7 @@ The New Mexico Energy Policy Simulator may be used on this website through your 
 
 ## Documentation
 
-Documentation of the model is available [here](https://us.energypolicy.solutions/docs/index.html).  Documentation is not specific to any model version and therefore applies to both U.S. and Colorado versions of the Energy Policy Simulator.
+Documentation of the model is available [here](https://us.energypolicy.solutions/docs/index.html).  Documentation is not specific to any model version and therefore applies to both U.S. and New Mexico versions of the Energy Policy Simulator.
 
 ## Other Information
 
