@@ -26,7 +26,7 @@ Reduction in E Use Allowed by Component Eff Std[envelope,commercial] = 0.2
 Reduction in E Use Allowed by Component Eff Std[lighting,commercial] = 0.2
 Reduction in E Use Allowed by Component Eff Std[appliances,commercial] = 0.2
 Reduction in E Use Allowed by Component Eff Std[other component,commercial] = 0.2
-Perc Subsidy for Distributed Solar PV Capacity = 0.5
+Perc Subsidy for Distributed Solar PV Capacity = 0.1
 Share of Preexisting Buildings Subject to Retrofitting[urban residential] = 0.05
 Share of Preexisting Buildings Subject to Retrofitting[rural residential] = 0.05
 Share of Preexisting Buildings Subject to Retrofitting[commercial] = 0.05
@@ -45,4 +45,4 @@ Fraction of Methane Destruction Opportunities Achieved[oil and gas extraction 06
 Fraction of Methane Destruction Opportunities Achieved[energy pipelines and gas processing 352T353] = 0.8
 Fraction of Methane Destruction Opportunities Achieved[coal mining 05] = 0.8
 Fraction of Methane Destruction Opportunities Achieved[water and waste 36T39] = 0.8
-Policy Implementation Schedule Selector = 3
+Policy Implementation Schedule Selector = 4
