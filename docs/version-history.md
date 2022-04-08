@@ -4,6 +4,7 @@ title:	"New Mexico EPS Version History"
 ---
 This page tracks updates that have been made with each version of the New Mexico Energy Policy Simulator.
 
-### **{version number} - {release date}**
+### **3.2.1 - April 20, 2022**
 
-* {comment}
+* Official launch of the New Mexico EPS
+
